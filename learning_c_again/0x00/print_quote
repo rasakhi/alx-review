@@ -1,0 +1,2 @@
+#!/bin/bash
+./puts && ./printf && ./quote
